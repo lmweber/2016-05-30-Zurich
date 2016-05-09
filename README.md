@@ -1,6 +1,6 @@
-# Website for Data Carpentry workshop, University of Zurich, 30-31 May 2016
+## Website for Data Carpentry workshop, University of Zurich, 30-31 May 2016
 
-### Link to website: http://lmweber.github.io/2016-05-30-Zurich/
+#### Link to website: http://lmweber.github.io/2016-05-30-Zurich/
 
 
 =======
